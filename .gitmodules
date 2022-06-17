@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hurricaneexposure"]
+	path = hurricaneexposure
+	url = https://github.com/geanders/hurricaneexposure
+	shallow = true
+	registered = true
+[submodule "noaastormevents"]
+	path = noaastormevents
+	url = https://github.com/geanders/noaastormevents
+	shallow = true
+	registered = true
+[submodule "weathermetrics"]
+	path = weathermetrics
+	url = https://github.com/geanders/weathermetrics
+	shallow = true
+	registered = true
