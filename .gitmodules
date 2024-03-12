@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "futureheatwaves"]
-	path = futureheatwaves
-	url = https://github.com/geanders/futureheatwaves
 [submodule "hurricaneexposure"]
 	path = hurricaneexposure
 	url = https://github.com/geanders/hurricaneexposure
