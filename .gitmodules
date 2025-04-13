@@ -5,9 +5,6 @@
 [submodule "hurricaneexposure"]
 	path = hurricaneexposure
 	url = https://github.com/geanders/hurricaneexposure
-[submodule "noaastormevents"]
-	path = noaastormevents
-	url = https://github.com/geanders/noaastormevents
 [submodule "weathermetrics"]
 	path = weathermetrics
 	url = https://github.com/geanders/weathermetrics
